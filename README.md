@@ -5,15 +5,10 @@ Note that you can write your code using any language and IDE you want (Python is
 Your function must be able to process an input file with the following format:
 
 3 love
-
 6 computers
-
 2 dogs
-
 4 cats
-
 1 I
-
 5 you
 
 In this file, each line contains a number followed by a word. The task is to decode a hidden message based on the arrangement of these numbers into a "pyramid" structure. The numbers are placed into the pyramid in ascending order, with each line of the pyramid having one more number than the line above it. The smallest number is 1, and the numbers increase consecutively, like so:
